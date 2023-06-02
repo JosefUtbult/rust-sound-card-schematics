@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GuitarPedal")(type "KiCad")(uri "/home/josef/Misc/Kicad/Libraries/GuitarPedal/GuitarPedal.kicad_sym")(options "")(descr ""))
+  (lib (name "rust-sound-card")(type "KiCad")(uri "${KIPRJMOD}/lib/rust-sound-card.kicad_sym")(options "")(descr ""))
+)
